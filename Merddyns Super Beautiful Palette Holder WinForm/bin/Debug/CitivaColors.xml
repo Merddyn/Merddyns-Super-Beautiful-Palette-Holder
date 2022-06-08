@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ColorPalette PaletteName="Citiva">
+  <Color>
+    <Name>MainColor</Name>
+    <Red>0</Red>
+    <Green>53</Green>
+    <Blue>106</Blue>
+    <Alpha>154</Alpha>
+  </Color>
+</ColorPalette>

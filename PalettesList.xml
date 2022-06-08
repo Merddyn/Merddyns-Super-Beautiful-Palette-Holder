@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ColorPalette>
+    <PaletteName>Citiva</PaletteName>
+    <Location>CitivaPalette.xml</Location>
+  </ColorPalette>
+  <ColorPalette>
+    <PaletteName>Fiscal Foundations</PaletteName>
+    <Location>FiscalFoundations.xml</Location>
+  </ColorPalette>
+</root>

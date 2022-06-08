@@ -1,0 +1,33 @@
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Super Beautiful Palette Holder WinForm.csprojAssemblyReference.cache
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns_Super_Beautiful_Palette_Holder_WinForm.Form1.resources
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns_Super_Beautiful_Palette_Holder_WinForm.Properties.Resources.resources
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Super Beautiful Palette Holder WinForm.csproj.GenerateResource.cache
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Super Beautiful Palette Holder WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns_Super_Beautiful_Palette_Holder_WinForm.ColorControl.resources
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.exe.config
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.exe.manifest
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.application
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.exe
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.pdb
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.exe.manifest
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.application
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.exe
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.pdb
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\PalettesList.xml
+C:\Users\Merddyn\source\repos\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\CitivaColors.xml
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns_Super_Beautiful_Palette_Holder_WinForm.ColorControl.resources
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns_Super_Beautiful_Palette_Holder_WinForm.Form1.resources
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns_Super_Beautiful_Palette_Holder_WinForm.Properties.Resources.resources
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Super Beautiful Palette Holder WinForm.csproj.GenerateResource.cache
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Super Beautiful Palette Holder WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.exe
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.pdb
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\CitivaColors.xml
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\PalettesList.xml
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.exe.config
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.exe.manifest
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.application
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.exe
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\bin\Debug\Merddyns Beautiful Palettes.pdb
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.exe.manifest
+C:\Users\Merddyn\Desktop\Old Projects\Merddyns Super Beautiful Palette Holder WinForm\Merddyns Super Beautiful Palette Holder WinForm\obj\Debug\Merddyns Beautiful Palettes.application
