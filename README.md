@@ -13,4 +13,4 @@ Made for my girlfriend in 2018 and named by her.
 
 Sample palette of arbitrary colors below.
 
-![image](https://user-images.githubusercontent.com/34362128/177022586-2e13fce9-acb5-4ee6-8266-f72fe072a156.png)
+![image](https://user-images.githubusercontent.com/34362128/177022611-426edf84-3097-47f7-9487-d1745cc2541e.png)
